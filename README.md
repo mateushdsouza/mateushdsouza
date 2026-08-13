@@ -2,7 +2,7 @@
 
 <p align="center">
 💻 Estudante de Análise e Desenvolvimento de Sistemas <br>
-☕ Focado em Desenvolvimento Back-end com Java
+🚀 Explorando desenvolvimento de software e novas tecnologias
 </p>
 
 ---
@@ -11,11 +11,11 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** na **Descomplica UniAmérica Centro Universitário**, atualmente no **4º período**.
+Sou estudante de **Engenharia de Software** na **Descomplica UniAmérica Centro Universitário**, atualmente no **4º período**.
 
-Tenho interesse em desenvolvimento de software, principalmente na área de **Back-end**, e gosto de aprender novas tecnologias colocando o conhecimento em prática através de projetos.
+Tenho interesse em **desenvolvimento de software** e gosto de aprender novas tecnologias colocando o conhecimento em prática através de projetos.
 
-Atualmente estou aprofundando meus estudos em **Java**, **Spring Boot**, **Angular** e **AWS**, buscando construir aplicações cada vez mais completas e bem estruturadas.
+Atualmente estou aprofundando meus estudos em **Java**, **Spring Boot**, **Angular** e **AWS**, enquanto continuo explorando diferentes áreas da tecnologia para descobrir onde posso me desenvolver melhor profissionalmente.
 
 📍 Foz do Iguaçu - Paraná, Brasil
 
@@ -31,15 +31,15 @@ Sistema desktop para gerenciamento financeiro desenvolvido em **Java**, utilizan
 
 Durante o desenvolvimento desse projeto tive contato com:
 
-- Java
-- Java Swing
-- PostgreSQL
-- Arquitetura MVC
-- Programação Orientada a Objetos
-- Integração com Banco de Dados
-- Git
+* Java
+* Java Swing
+* PostgreSQL
+* Arquitetura MVC
+* Programação Orientada a Objetos
+* Integração com Banco de Dados
+* Git
 
-Foi o projeto que mais contribuiu para minha evolução como desenvolvedor até o momento.
+Foi o projeto que mais contribuiu para minha evolução até o momento, principalmente por ter me permitido colocar em prática conceitos de programação, banco de dados e organização de software.
 
 ---
 
@@ -47,57 +47,58 @@ Foi o projeto que mais contribuiu para minha evolução como desenvolvedor até 
 
 ### Linguagens
 
-- Java
-- JavaScript
-- HTML
-- CSS
-- C
+* Java
+* JavaScript
+* HTML
+* CSS
+* C
 
-### Frameworks
+### Frameworks e Tecnologias
 
-- Spring Boot *(Estudando)*
-- Angular *(Estudando)*
-- Java Swing
+* Java Swing
+* Spring Boot
+* Angular
 
 ### Banco de Dados
 
-- PostgreSQL
+* PostgreSQL
+* SQL
 
 ### Ferramentas
 
-- Git
-- GitHub
+* Git
+* GitHub
 
 ### Cloud
 
-- AWS *(Estudando)*
+* AWS *(Estudando)*
 
 ---
 
 ## 📚 Atualmente estudando
 
-- Spring Boot
-- Angular
-- AWS
-- APIs REST
-- Arquitetura de Software
-- Clean Code
+* Spring Boot
+* APIs REST
+* Angular
+* AWS
+* Arquitetura de Software
+* Clean Code
 
 ---
 
 ## 🎯 Próximos Projetos
 
-- ✅ API REST com Spring Boot
-- ✅ Sistema Full Stack utilizando Angular + Spring Boot
-- 🔄 Novos projetos conforme evolução dos estudos
+* 🔄 API REST com Spring Boot
+* 🔄 Sistema Full Stack utilizando Angular + Spring Boot
+* 🔄 Novos projetos conforme evolução dos estudos
 
 ---
 
 ## 📫 Contato
 
-📧 **teushdsouza@gmail.com**
+📧 **[teushdsouza@gmail.com](mailto:teushdsouza@gmail.com)**
 
-💼 **LinkedIn:** www.linkedin.com/in/mateushdsouza
+💼 **LinkedIn:** [linkedin.com/in/mateushdsouza](https://www.linkedin.com/in/mateushdsouza/)
 
 ---
 
@@ -105,11 +106,11 @@ Foi o projeto que mais contribuiu para minha evolução como desenvolvedor até 
 
 ## 👨‍💻 About Me
 
-I'm a **Software Development student** at **Descomplica UniAmérica Centro Universitário**, currently in the **4th semester**.
+I'm a **Software Engineering student** at **Descomplica UniAmérica Centro Universitário**, currently in the **4th semester**.
 
-I'm passionate about software development, especially **Back-end Development**, and I enjoy learning new technologies by building practical projects.
+I'm interested in **software development** and enjoy learning new technologies by putting my knowledge into practice through projects.
 
-Currently, I'm improving my skills in **Java**, **Spring Boot**, **Angular**, and **AWS**, aiming to build scalable and well-structured applications.
+Currently, I'm improving my skills in **Java**, **Spring Boot**, **Angular**, and **AWS**, while exploring different areas of technology to discover where I can develop myself professionally.
 
 📍 Foz do Iguaçu - Paraná, Brazil
 
@@ -121,19 +122,19 @@ Currently, I'm improving my skills in **Java**, **Spring Boot**, **Angular**, an
 
 ### ParceiroAuto
 
-A desktop financial management system developed in **Java** following the **MVC architecture**.
+A desktop financial management system developed in **Java**, using the **MVC architecture**.
 
-Technologies used:
+During the development of this project, I worked with:
 
-- Java
-- Java Swing
-- PostgreSQL
-- MVC Architecture
-- Object-Oriented Programming
-- Database Integration
-- Git
+* Java
+* Java Swing
+* PostgreSQL
+* MVC Architecture
+* Object-Oriented Programming
+* Database Integration
+* Git
 
-This project has been my biggest learning experience so far.
+This has been my biggest learning experience so far, especially because it allowed me to put programming, database, and software organization concepts into practice.
 
 ---
 
@@ -141,54 +142,55 @@ This project has been my biggest learning experience so far.
 
 ### Languages
 
-- Java
-- JavaScript
-- HTML
-- CSS
-- C
+* Java
+* JavaScript
+* HTML
+* CSS
+* C
 
-### Frameworks
+### Frameworks and Technologies
 
-- Spring Boot *(Learning)*
-- Angular *(Learning)*
-- Java Swing
+* Java Swing
+* Spring Boot
+* Angular
 
 ### Database
 
-- PostgreSQL
+* PostgreSQL
+* SQL
 
 ### Tools
 
-- Git
-- GitHub
+* Git
+* GitHub
 
 ### Cloud
 
-- AWS *(Learning)*
+* AWS *(Learning)*
 
 ---
 
 ## 📚 Currently Learning
 
-- Spring Boot
-- Angular
-- AWS
-- REST APIs
-- Software Architecture
-- Clean Code
+* Spring Boot
+* REST APIs
+* Angular
+* AWS
+* Software Architecture
+* Clean Code
 
 ---
 
 ## 🎯 Next Projects
 
-- REST API with Spring Boot
-- Full Stack Application using Angular + Spring Boot
-- New projects as I continue learning
+* 🔄 REST API with Spring Boot
+* 🔄 Full Stack Application using Angular + Spring Boot
+* 🔄 New projects as I continue learning
 
 ---
 
 ## 📫 Contact
 
-📧 **teushdsouza@gmail.com**
+📧 **[teushdsouza@gmail.com](mailto:teushdsouza@gmail.com)**
 
-💼 **LinkedIn:** www.linkedin.com/in/mateushdsouza
+💼 **LinkedIn:** [linkedin.com/in/mateushdsouza](https://www.linkedin.com/in/mateushdsouza/)
