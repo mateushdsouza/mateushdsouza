@@ -5,7 +5,7 @@ Estudante de **Engenharia de Software na Descomplica UniAmérica**, em Foz do Ig
 Busco **estágio remunerado ou uma oportunidade júnior** em desenvolvimento de software. Pratico interfaces web, integração com APIs, persistência de dados e testes em projetos acadêmicos e de estudo.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil_profissional-163344?style=flat-square)](https://www.linkedin.com/in/mateushdsouza/)
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-C%C3%B3digo-163344?style=flat-square)](https://github.com/mateushdsouza/projeto-portfolio-dev/tree/main/docs)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-C%C3%B3digo-163344?style=flat-square)](https://github.com/mateushdsouza/portfolio)
 
 ## Projetos em destaque
 
